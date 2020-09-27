@@ -1,0 +1,15 @@
+subject,timepoint,event,region,signal,inc_signal
+s0,18,stim,frontal,-0.0484297385322,-4.84 
+s1,18,stim,frontal,-0.035852428488800006,-3.59
+s2,18,stim,frontal,-0.058470978469199984,-5.85 
+s3,18,stim,frontal,-0.0109204163368,-1.09
+s4,18,stim,frontal,-0.0632631135055,-6.33 
+s5,18,stim,frontal,-0.0310125612548,-3.1
+s6,18,stim,frontal,0.0464997185079,4.65 
+s7,18,stim,frontal,-0.019634012602,-1.96
+s8,18,stim,frontal,-0.0111144370761,-1.11 
+s9,18,stim,frontal,-0.00995933986682,-1.0
+s10,18,stim,frontal,-0.00892838562082,-0.89 
+s11,18,stim,frontal,-0.0307844658374,-3.08
+s12,18,stim,frontal,-0.0623323445862,-6.23
+s13,18,stim,frontal,0.0244253694066,2.44
